@@ -1,0 +1,4 @@
+Blur: 32
+Oppacity: 83
+Y: +16
+X: +16
